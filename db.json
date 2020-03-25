@@ -1,0 +1,22 @@
+{
+  "posts": [
+    { "id": 1, 
+      "name": "Cupon 1", 
+      "status": true, 
+      "discount": 10,
+      "id_product": 1
+    },
+    { "id": 2, 
+      "name": "Cupon 2", 
+      "status": true, 
+      "discount": 2,
+      "id_product": 2
+    },
+    { "id": 3, 
+      "name": "Cupon 3", 
+      "status": true, 
+      "discount": 30,
+      "id_product": 3
+    },
+  ]
+}
